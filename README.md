@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="center">
+  <img width="200" height="200" src="![Orange and black modern digital marketing banner](https://user-images.githubusercontent.com/101354252/158519934-32ccf8a6-a988-406b-ab1d-d0f80a6fb11e.png)" alt="My banner">
+</p>
 <!--
 **CamMass/CamMass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
